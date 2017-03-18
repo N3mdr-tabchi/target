@@ -1,11 +1,11 @@
-# PvResan
+# CoderTeam_Robot
 
 سلام
 
 این سورس توسط صدرا خفاش اوپن شده و کاملترین سورس موجوده
 
 برای آموزش ران کردن به 
-<a href="http://www.telegram.me/CoderTeam_Robot">ادمین</a>
+<a href="http://www.telegram.me/CoderTeam_Robot">آیدی_زیر</a>
 پیام بدید
 
 یه تشکر  ویژه از دوستای خوبم    </br>
